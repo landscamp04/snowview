@@ -1,0 +1,303 @@
+[
+  {
+    "name": "Mammoth Mountain",
+    "state": "CA",
+    "lat": 37.6308,
+    "lng": -119.0326,
+    "base_elevation_ft": 7953,
+    "summit_elevation_ft": 11053,
+    "num_lifts": 28,
+    "website_url": "https://www.mammothmountain.com"
+  },
+  {
+    "name": "Palisades Tahoe",
+    "state": "CA",
+    "lat": 39.1968,
+    "lng": -120.2354,
+    "base_elevation_ft": 6200,
+    "summit_elevation_ft": 9050,
+    "num_lifts": 30,
+    "website_url": "https://www.palisadestahoe.com"
+  },
+  {
+    "name": "Heavenly Mountain Resort",
+    "state": "CA",
+    "lat": 38.9353,
+    "lng": -119.9400,
+    "base_elevation_ft": 6540,
+    "summit_elevation_ft": 10067,
+    "num_lifts": 28,
+    "website_url": "https://www.skiheavenly.com"
+  },
+  {
+    "name": "Kirkwood Mountain Resort",
+    "state": "CA",
+    "lat": 38.6850,
+    "lng": -120.0652,
+    "base_elevation_ft": 7800,
+    "summit_elevation_ft": 9800,
+    "num_lifts": 15,
+    "website_url": "https://www.kirkwood.com"
+  },
+  {
+    "name": "Northstar California Resort",
+    "state": "CA",
+    "lat": 39.2746,
+    "lng": -120.1210,
+    "base_elevation_ft": 6330,
+    "summit_elevation_ft": 8610,
+    "num_lifts": 20,
+    "website_url": "https://www.northstarcalifornia.com"
+  },
+  {
+    "name": "Sugar Bowl Resort",
+    "state": "CA",
+    "lat": 39.3046,
+    "lng": -120.3354,
+    "base_elevation_ft": 6883,
+    "summit_elevation_ft": 8383,
+    "num_lifts": 13,
+    "website_url": "https://www.sugarbowl.com"
+  },
+
+  {
+    "name": "June Mountain",
+    "state": "CA",
+    "lat": 37.7675,
+    "lng": -119.0905,
+    "base_elevation_ft": 7545,
+    "summit_elevation_ft": 10135,
+    "num_lifts": 7,
+    "website_url": "https://www.junemountain.com"
+  },
+  {
+    "name": "Dodge Ridge",
+    "state": "CA",
+    "lat": 38.1900,
+    "lng": -119.9553,
+    "base_elevation_ft": 6600,
+    "summit_elevation_ft": 8200,
+    "num_lifts": 12,
+    "website_url": "https://www.dodgeridge.com"
+  },
+  {
+    "name": "Sierra-at-Tahoe",
+    "state": "CA",
+    "lat": 38.7994,
+    "lng": -120.0800,
+    "base_elevation_ft": 6640,
+    "summit_elevation_ft": 8852,
+    "num_lifts": 14,
+    "website_url": "https://www.sierraattahoe.com"
+  },
+  {
+    "name": "Boreal Mountain Resort",
+    "state": "CA",
+    "lat": 39.3326,
+    "lng": -120.3474,
+    "base_elevation_ft": 7200,
+    "summit_elevation_ft": 7700,
+    "num_lifts": 8,
+    "website_url": "https://www.rideboreal.com"
+  },
+  {
+    "name": "Vail",
+    "state": "CO",
+    "lat": 39.6403,
+    "lng": -106.3742,
+    "base_elevation_ft": 8120,
+    "summit_elevation_ft": 11570,
+    "num_lifts": 34,
+    "website_url": "https://www.vail.com"
+  },
+  {
+    "name": "Breckenridge",
+    "state": "CO",
+    "lat": 39.4817,
+    "lng": -106.0384,
+    "base_elevation_ft": 9600,
+    "summit_elevation_ft": 12998,
+    "num_lifts": 35,
+    "website_url": "https://www.breckenridge.com"
+  },
+  {
+    "name": "Keystone Resort",
+    "state": "CO",
+    "lat": 39.6069,
+    "lng": -105.9497,
+    "base_elevation_ft": 9280,
+    "summit_elevation_ft": 12408,
+    "num_lifts": 20,
+    "website_url": "https://www.keystoneresort.com"
+  },
+  {
+    "name": "Copper Mountain",
+    "state": "CO",
+    "lat": 39.5022,
+    "lng": -106.1497,
+    "base_elevation_ft": 9712,
+    "summit_elevation_ft": 12313,
+    "num_lifts": 24,
+    "website_url": "https://www.coppercolorado.com"
+  },
+  {
+    "name": "Arapahoe Basin",
+    "state": "CO",
+    "lat": 39.6426,
+    "lng": -105.8718,
+    "base_elevation_ft": 10780,
+    "summit_elevation_ft": 13050,
+    "num_lifts": 9,
+    "website_url": "https://www.arapahoebasin.com"
+  },
+  {
+    "name": "Winter Park Resort",
+    "state": "CO",
+    "lat": 39.8841,
+    "lng": -105.7625,
+    "base_elevation_ft": 9000,
+    "summit_elevation_ft": 12060,
+    "num_lifts": 25,
+    "website_url": "https://www.winterparkresort.com"
+  },
+  {
+    "name": "Steamboat Springs",
+    "state": "CO",
+    "lat": 40.4572,
+    "lng": -106.8045,
+    "base_elevation_ft": 6900,
+    "summit_elevation_ft": 10568,
+    "num_lifts": 18,
+    "website_url": "https://www.steamboat.com"
+  },
+  {
+    "name": "Aspen Snowmass",
+    "state": "CO",
+    "lat": 39.2084,
+    "lng": -106.9490,
+    "base_elevation_ft": 8104,
+    "summit_elevation_ft": 12510,
+    "num_lifts": 41,
+    "website_url": "https://www.aspensnowmass.com"
+  },
+  {
+    "name": "Telluride Ski Resort",
+    "state": "CO",
+    "lat": 37.9375,
+    "lng": -107.8123,
+    "base_elevation_ft": 8725,
+    "summit_elevation_ft": 13150,
+    "num_lifts": 19,
+    "website_url": "https://www.tellurideskiresort.com"
+  },
+  {
+    "name": "Crested Butte Mountain Resort",
+    "state": "CO",
+    "lat": 38.8990,
+    "lng": -106.9650,
+    "base_elevation_ft": 9375,
+    "summit_elevation_ft": 12162,
+    "num_lifts": 16,
+    "website_url": "https://www.skicb.com"
+  },
+  {
+    "name": "Loveland Ski Area",
+    "state": "CO",
+    "lat": 39.6800,
+    "lng": -105.8979,
+    "base_elevation_ft": 10800,
+    "summit_elevation_ft": 13010,
+    "num_lifts": 11,
+    "website_url": "https://www.skiloveland.com"
+  },
+  {
+    "name": "Monarch Mountain",
+    "state": "CO",
+    "lat": 38.5122,
+    "lng": -106.3322,
+    "base_elevation_ft": 10790,
+    "summit_elevation_ft": 11952,
+    "num_lifts": 7,
+    "website_url": "https://www.skimonarch.com"
+  },
+  {
+    "name": "Crystal Mountain",
+    "state": "WA",
+    "lat": 46.9352,
+    "lng": -121.5045,
+    "base_elevation_ft": 4400,
+    "summit_elevation_ft": 7012,
+    "num_lifts": 11,
+    "website_url": "https://www.crystalmountainresort.com"
+  },
+  {
+    "name": "Stevens Pass",
+    "state": "WA",
+    "lat": 47.7448,
+    "lng": -121.0890,
+    "base_elevation_ft": 4061,
+    "summit_elevation_ft": 5845,
+    "num_lifts": 10,
+    "website_url": "https://www.stevenspass.com"
+  },
+  {
+    "name": "The Summit at Snoqualmie",
+    "state": "WA",
+    "lat": 47.4208,
+    "lng": -121.4134,
+    "base_elevation_ft": 3000,
+    "summit_elevation_ft": 5400,
+    "num_lifts": 25,
+    "website_url": "https://www.summitatsnoqualmie.com"
+  },
+  {
+    "name": "Mt. Baker Ski Area",
+    "state": "WA",
+    "lat": 48.8576,
+    "lng": -121.6650,
+    "base_elevation_ft": 3500,
+    "summit_elevation_ft": 5089,
+    "num_lifts": 10,
+    "website_url": "https://www.mtbaker.us"
+  },
+  {
+    "name": "White Pass Ski Area",
+    "state": "WA",
+    "lat": 46.6369,
+    "lng": -121.3912,
+    "base_elevation_ft": 4500,
+    "summit_elevation_ft": 6000,
+    "num_lifts": 8,
+    "website_url": "https://www.skiwhitepass.com"
+  },
+  {
+    "name": "Mission Ridge Ski & Board Resort",
+    "state": "WA",
+    "lat": 47.2926,
+    "lng": -120.3984,
+    "base_elevation_ft": 4570,
+    "summit_elevation_ft": 6820,
+    "num_lifts": 6,
+    "website_url": "https://www.missionridge.com"
+  },
+  {
+    "name": "49 Degrees North",
+    "state": "WA",
+    "lat": 48.2986,
+    "lng": -117.5658,
+    "base_elevation_ft": 3923,
+    "summit_elevation_ft": 5774,
+    "num_lifts": 6,
+    "website_url": "https://www.ski49n.com"
+  },
+  {
+    "name": "Hurricane Ridge Ski Area",
+    "state": "WA",
+    "lat": 47.9700,
+    "lng": -123.4990,
+    "base_elevation_ft": 5200,
+    "summit_elevation_ft": 5757,
+    "num_lifts": 3,
+    "website_url": "https://www.hurricaneridge.com"
+  }
+]
