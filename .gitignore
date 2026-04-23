@@ -1,5 +1,13 @@
-# Environment
+# Environment — ignore all .env variants at any depth, but keep examples
 .env
+.env.*
+**/.env
+**/.env.*
+!.env.example
+!**/.env.example
+!.env.sample
+!**/.env.sample
+
 venv/
 __pycache__/
 *.pyc
@@ -18,3 +26,7 @@ Thumbs.db
 # IDE
 .vscode/
 .idea/
+
+backend/.venv
+
+AGENTS.md
