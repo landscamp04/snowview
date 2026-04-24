@@ -16,26 +16,33 @@ export default function Home() {
 
   return (
     <div className="min-h-screen">
-      {/* Hero Section */}
-      <section className="relative flex flex-col items-center justify-center text-center px-4 py-32">
-        {/* Subtle gradient background */}
-        <div className="absolute inset-0 bg-gradient-to-b from-blue-950/40 via-slate-950 to-slate-950" />
+      {/* Hero Section — personal photo as the container background */}
+      <section
+        className="relative flex flex-col items-center justify-center text-center px-4 py-32"
+        style={{
+          backgroundImage: "url('/images/lp-background.png')",
+          backgroundSize: "cover",
+          backgroundPosition: "center 40%",
+        }}
+      >
+        {/* Soft dark overlay to keep text legible without washing out the photo */}
+        <div className="absolute inset-0 bg-gradient-to-b from-black/30 via-black/35 to-slate-950" />
 
         <div className="relative z-10 max-w-3xl">
-          <h1 className="text-5xl md:text-6xl font-bold mb-4 bg-gradient-to-r from-blue-300 via-blue-400 to-purple-400 bg-clip-text text-transparent">
+          <h1 className="text-5xl md:text-6xl font-bold mb-4 text-white drop-shadow-md">
             SnowView
           </h1>
-          <p className="text-xl md:text-2xl text-slate-300 mb-2">
+          <p className="text-xl md:text-2xl text-white/90 mb-2">
             Real-time snow intelligence across the West
           </p>
-          <p className="text-slate-400 mb-10 max-w-xl mx-auto">
+          <p className="text-white/70 mb-10 max-w-xl mx-auto">
             Aggregating SNOTEL snowpack data and NOAA forecasts for ski resorts
             across California, Colorado, and Washington.
           </p>
 
           <Link
             href="/map"
-            className="inline-block bg-blue-600 hover:bg-blue-500 text-white font-semibold px-8 py-3 rounded-lg transition-colors text-lg"
+            className="inline-block bg-blue-600 hover:bg-blue-500 text-white font-semibold px-8 py-3 rounded-lg transition-colors text-lg shadow-lg"
           >
             Explore the Map
           </Link>
@@ -73,7 +80,7 @@ export default function Home() {
         <section className="max-w-4xl mx-auto px-4 py-16">
           <h2 className="text-2xl font-bold mb-6 text-center">Best Conditions Right Now</h2>
           <div className="grid md:grid-cols-3 gap-4">
-            {topResorts.map((resort, i) => (
+            {topResorts.map((resort) => (
               <div
                 key={resort.id}
                 className="bg-slate-800/50 border border-slate-700/50 rounded-xl p-5 hover:border-blue-500/50 transition-colors"
@@ -94,13 +101,13 @@ export default function Home() {
                   <div>
                     <p className="text-slate-400">Snow Depth</p>
                     <p className="text-white font-medium">
-                      {resort.current_snow_depth_in ?? "—"}"
+                      {resort.current_snow_depth_in ?? "—"}&quot;
                     </p>
                   </div>
                   <div>
                     <p className="text-slate-400">48h Snowfall</p>
                     <p className="text-white font-medium">
-                      {resort.snowfall_48h_in ?? "—"}"
+                      {resort.snowfall_48h_in ?? "—"}&quot;
                     </p>
                   </div>
                 </div>
